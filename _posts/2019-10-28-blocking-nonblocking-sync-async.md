@@ -1,3 +1,16 @@
+---
+layout:post
+title: Blocking-NonBlocking-Synchronous-Asynchronous
+comments:true
+tags: [os,통신,동기,비동기,블로킹,논블로킹]
+---
+
+
+
+
+
+
+
 # Blocking-NonBlocking-Synchronous-Asynchronous
 
 Feb 19, 2017 in [Concepts](https://homoefficio.github.io/categories/Concepts/)

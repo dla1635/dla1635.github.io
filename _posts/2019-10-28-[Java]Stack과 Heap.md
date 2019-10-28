@@ -1,3 +1,12 @@
+---
+layout:post
+title: [JAVA] Stack과 Heap
+comments:true
+tags: [stack, heap, 자바]
+---
+
+
+
 <img src="/Users/jongwanlim/Library/Application Support/typora-user-images/image-20181205113322745.png" width="300px" height="500px" >
 
 **코드(code) 영역**

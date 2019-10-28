@@ -1,3 +1,12 @@
+---
+layout:post
+title: HTTP-Restful API
+comments:true
+tags: [Rest api, http, 응답코드]
+---
+
+
+
 ## 1. REST 구성
 
 쉽게 말해 REST API는 다음의 구성으로 이루어져있습니다. 자세한 내용은 밑에서 설명하도록 하겠습니다.
