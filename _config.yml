@@ -11,24 +11,23 @@ title: Chirpy
 description: 'A text-based Jekyll theme.'
 
 # Replace with your domain, e.g. "https://username.github.io"
-url: 'https://www.example.com'
+url: 'https://dla1635.github.io'
 
 author: Cotes Chung                     # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # Support network resources.
 
 github:
-  username: github_username             # change to your github username
+  username: dla1635            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username:            # change to your twitter username
 
 social:
-  name: Chirpy                          # change to your full name
-  email: example@doamin.com             # change to your email address
+  name: limjongwan                          # change to your full name
+  email: dla1635@gmail.com             # change to your email address
   links:
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/dla1635      # change to your github homepage
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
