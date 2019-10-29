@@ -1,7 +1,7 @@
 ---
-layout:post
 title: "[JAVA] Stack과 Heap"
-comments:true
+date: 2019-10-029 13:43:00 +0800
+categories: [자바]
 tags: [stack, heap, 자바]
 ---
 
