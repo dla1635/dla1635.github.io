@@ -1,6 +1,6 @@
 ---
 layout:post
-title: [JAVA] Stack과 Heap
+title: "[JAVA] Stack과 Heap"
 comments:true
 tags: [stack, heap, 자바]
 ---
