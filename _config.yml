@@ -20,9 +20,6 @@ avatar: /assets/img/avatar.jpg   # Support network resources.
 github:
   username: dla1635            # change to your github username
 
-twitter:
-  username:            # change to your twitter username
-
 social:
   name: limjongwan                          # change to your full name
   email: dla1635@gmail.com             # change to your email address
